@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939553861479",
+    "project_id": "fcm-demo-7dcd0",
+    "storage_bucket": "fcm-demo-7dcd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939553861479:android:30a1bb14711bd973fa89c2",
+        "android_client_info": {
+          "package_name": "com.mzansi.icetask4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBlrBxa5I6xlX0ctgWKJpDsL_e5xZr8Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
